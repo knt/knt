@@ -2,9 +2,7 @@
 
 I'm Nichole.
 
-I am a software developer currently splitting my time between the Bay Area and Cincinnati.
+I am Engineering Manager & Software Developer currently living in Cincinnati, Ohio.
 
-- 🔭 Working as an iOS engineer
-- 🌱 Currently learning SwiftUI; dabbling in React and other web technologies
+- 🔭 EM & iOS engineer
 - 📫 kntreadway (at) gmail.com
-- 😄 Pronouns: she/her
